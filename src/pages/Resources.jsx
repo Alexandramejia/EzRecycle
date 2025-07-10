@@ -169,7 +169,7 @@ function Resources() {
         </div>
         
         {/* Community + NYC Recycling Info */}
-        <div className="mt-24 space-y-16">
+        <div className="mt-12 space-y-16">
           <div className="bg-white rounded-2xl shadow-lg p-6">
             <div className="flex items-center mb-4">
               <span className="text-2xl mr-2">🤝</span>
